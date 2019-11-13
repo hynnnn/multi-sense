@@ -1,0 +1,12 @@
+anarchism is a political philosophy which considers the state undesirable unnecessary
+['ana', '##rch', '##ism', 'is', 'a', 'political', 'philosophy', 'which', 'considers', 'the', 'state', 'und', '##es', '##ira', '##ble', 'unnecessary']
+The split index is:  [0, 1, 2, 11, 12, 13, 14]
+Number of tokens in sequence: 16
+Number of layers per token: 12
+dimensions per token: 768
+Shape is: 16 x 768
+Number of token after combining: 11
+The center word has the dimensions: torch.Size([768])
+The center word is 'which'
+The index of the center word: [2029]
+After concatnate the context, the vector has dimension: torch.Size([7680])
